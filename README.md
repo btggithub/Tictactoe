@@ -5,4 +5,4 @@ A basic Tictactoe simulation between Computer and user. The computer move is ran
 This is to understand functions and lists
 
 Todo:
-Possibility to change the game to two players
+Possibility to change the game to enable two players to play instead of computer vs player
